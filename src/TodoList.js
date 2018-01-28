@@ -62,7 +62,7 @@ class TodoList extends Component {
       <div className="TodoList">
         <header>
           <h1>todo<span>list</span></h1>
-          <h2>A simple todo list app built with node</h2>
+          <h2>A simple todo list app built with react</h2>
         </header>
         <TodoForm 
           onSubmit={this.addTodo}
