@@ -1,4 +1,4 @@
-const APIURL = 'http://de-todos-api.herokuapp.com/api/todos/';
+const APIURL = 'https://de-todos-api.herokuapp.com/api/todos/';
 
 
 export async function getTodos() {
